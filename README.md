@@ -27,6 +27,7 @@ Backend: Python (SQLite for data storage)
 Frontend: Tkinter (CustomTkinter for enhanced UI)
 
 How It Works:
+Run the .EXE FILE,NO INSTALLATION NEEDED.
 
 Login: Users log in to access different system functionalities based on their role.
 
